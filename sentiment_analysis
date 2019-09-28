@@ -1,3 +1,0 @@
-This project includes both templated project and customized project.
-The templated project uses the IMDB Dataset to predict the sentiment of a movie review. 
-While my customized project uses a "Contact Us" page feedback to predict the sentiment of visitor's inquiries or feedback.
