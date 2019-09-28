@@ -1,0 +1,4 @@
+Data: 2 years entry-exit passenger counts in MRT
+Features: Station, location, month, day of week and weather features
+Model: RandomForest, XGBoost, DeepAR (from AWS)
+Desired outcome: Web app to let the MRT passengers a forecasted traffic in MRT
